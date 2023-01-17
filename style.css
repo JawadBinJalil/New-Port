@@ -20,8 +20,13 @@ section {
     padding-left: 5%;
 }
 
+.para {
+    padding: 0 0 10px 0;
+
+}
+
 .half img {
-    width: 100%;
+    width: 90%;
 }
 
 .FB-profile {
@@ -38,4 +43,18 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 
+}
+
+#half2 {
+    width: 90%;
+}
+
+#para2 {
+    padding: 0 100px 0 0;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: 100%;
 }
